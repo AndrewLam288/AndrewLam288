@@ -1,16 +1,15 @@
-## Hi there 👋
+# PROFESSIONAL SUMMARY
 
-<!--
-**AndrewLam288/AndrewLam288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An University Minnesota Morris Undergraduate student, major in B.A Computer Science and interesting in Software Designing, AI & Machine Learning and exploring in the CyberSecurity field.
 
-Here are some ideas to get you started:
+Energetic, hardworking and comfortable adjusting to different environments, eager to learn, code and gaining experiences through practical activities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# EDUCATION
+University Of Minnesota Morris | Morris, MN                                                     Expected Graduating: 2026
+B.A in Computer Science
+
+# TECHNICAL SKILLS
+
+| Programming Languages | [![My Skills](https://skillicons.dev/icons?i=java,py,ts,js,html,css,figma&theme=light)](https://skillicons.dev) |
+| Developer Tools | [![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,angular,git,github)](https://skillicons.dev) |
+
