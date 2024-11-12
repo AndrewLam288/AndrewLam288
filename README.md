@@ -10,6 +10,7 @@ B.A in Computer Science
 
 # TECHNICAL SKILLS
 
-| Programming Languages | [![My Skills](https://skillicons.dev/icons?i=java,py,ts,js,html,css,figma&theme=light)](https://skillicons.dev) |
-| Developer Tools | [![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,angular,git,github)](https://skillicons.dev) |
-
+| Category              | Skills                                                                                                                                                       |
+|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Programming Languages | [![My Skills](https://skillicons.dev/icons?i=java,py,ts,js,html,css,figma&theme=light)](https://skillicons.dev)                                             |
+| Developer Tools       | [![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,angular,git,github&theme=light)](https://skillicons.dev)                                         |
