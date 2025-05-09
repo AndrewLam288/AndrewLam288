@@ -1,4 +1,4 @@
-# PROFESSIONAL SUMMARY
+# SUMMARY
 
 An University Minnesota Morris Undergraduate student, major in B.A Computer Science and interesting in Software Designing, AI & Machine Learning and exploring in the CyberSecurity field.
 
